@@ -10,6 +10,7 @@ title: Shrimp Data
 email: shrimpdata@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Slogan here
+short_description: Shrimp Data is a
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://shrimpdata.github.io" # the base hostname & protocol for your site
 
